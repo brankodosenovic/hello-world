@@ -1,0 +1,10 @@
+#This is the second file of the first folder in the repo
+#It contains random content needed for git learning purposes
+
+random content bla bla = bla 
+
+my name is not branko
+8191287332+++#
+
+
+

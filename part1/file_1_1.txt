@@ -1,0 +1,7 @@
+#This is the first file of the first folder in the repo
+#It contains random content needed for git learning purposes
+
+
+1+1 equals blaaa
+my name is branko 
+there is some more to this coming later 
