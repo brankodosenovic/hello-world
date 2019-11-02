@@ -6,5 +6,5 @@ random content bla bla = bla
 my name is not branko
 8191287332+++#
 
-Change No2 corresponding to the commit #3 
+Change No2 corresponding to the commit #3 and adding few more words to this specific line which will also be changed in fidl_release_1 branch but slightly different to cause merge conflict 
 
