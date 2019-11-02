@@ -6,5 +6,5 @@ random content bla bla = bla
 my name is not branko
 8191287332+++#
 
-Change No2 corresponding to the commit #3 
+Change No2 corresponding to the commit #3 and modifying the same line as the last commit in the master branch but in a different way to cause a merge conflict 
 
