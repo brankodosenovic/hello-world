@@ -6,4 +6,6 @@
 my name is branko 
 there is some more to this coming later
 
-Change no 1 belonging to the 2. commit in total 
+Change no 1 belonging to the 2. commit in total
+
+Adding a line representing 1 commit in the master later on to be merged into the fidl_release_1 branch
