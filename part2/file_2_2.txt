@@ -1,0 +1,1 @@
+This is a new file commmited directly in the remote repo into the remote master (before the commit on the same state as the local master)
